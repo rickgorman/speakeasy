@@ -13,7 +13,7 @@ get "/speakeasy/new.json" do
   utterances << {:text => 'hey how you doin?'}
   utterances << {:text => '...ahh you know, not too bad man. hows the family?'}
   utterances << {:text => '...cat died.'}
-  utterances << {:text => '...ahh shit. I'm all out of dead cat jokes.'}
+  utterances << {:text => "...ahh shit. I'm all out of dead cat jokes."}
 
   utterances.to_json
 end
