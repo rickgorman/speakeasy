@@ -1,7 +1,7 @@
 speakeasy
 =========
 
-A chrome plugin which polls a given url for text to speak through chrome's amazing chrome.tts api.
+A chrome plugin that polls a given url for text to speak through chrome's amazing chrome.tts api.
 
 Example of sinatra/ruby handler:
 
